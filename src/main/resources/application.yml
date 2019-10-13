@@ -1,0 +1,5 @@
+news:
+  api:
+    url: https://newsapi.org
+    uri: /v2/top-headlines
+    key: 4f928c753c7d4768b3932554f8be7bcf
